@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">KCAApp Elearning </string>
+    <string name="title">MOBILE LEARNING</string>
+    <string name="text_user_name">Full Names</string>
+    <string name="text_user_email">Email Address</string>
+    <string name="text_password">Password</string>
+    <string name="text_password_confirm">Confirm Password</string>
+    <string name="text_register">Reguster</string>
+    <string name="text_success_registration">Successfully Registered</string>
+    <string name="error_fullnames">Enter Your Full Names </string>
+    <string name="errror_email">Enter a valid email Address</string>
+    <string name="error_password">Endter a password</string>
+    <string name="error_mismatch_password">Passwords did not match</string>
+    <string name="text_login">Login</string>
+    <string name="error_not_member">Not registered. Please Register</string>
+
+    <string name="text_course_name">Course Name</string>
+    <string name="text_course_code">Course Code</string>
+    <string name="text_course_desc">Course Description</string>
+    <string name="error_course_name">Enter Course Name!</string>
+    <string name="error_course_code">Enter Course Code!</string>
+    <string name="error_course_desc"> Enter Course Description </string>
+
+
+    <string name="text_registration_student">Student Email</string>
+    <string name="text_registration_course">Course Code</string>
+    <string name="error_registration_student">Enter Student Email!</string>
+    <string name="error_registration_course"> Enter Course code! </string>
+
+    <string name="error_already_registered">Already Registered for the course</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="departments">Departments</string>
+
+    <string-array name="spp_array">
+        <item>Certified Public Accounts </item>
+        <item>Certified Public Secretary</item>
+        <item>Certified Public Banker</item>
+    </string-array>
+
+    <string-array name="sob_array">
+        <item>Bachelor of Commerce </item>
+        <item>Bachelor in Business Finance </item>
+        <item>Bachelor in Procurement </item>
+        <item>Bachelor in Sales and Marketing</item>
+    </string-array>
+
+    <string-array name="focim_array">
+        <item>Bachelor in Business Information Technology</item>
+        <item>Diploma in Computer Science </item>
+        <item>Bachelor of Science in Computer Computing </item>
+        <item>Bachelor in Informatics</item>
+    </string-array>
+    <string-array name="foed_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>Table Tennis</item>
+        <item>Basket Ball</item>
+        <item>Foot Ball</item>
+        <item>Volley Ball</item>
+        <item>Hockey</item>
+        <item>Swimming</item>
+    </string-array>
+
+</resources>
